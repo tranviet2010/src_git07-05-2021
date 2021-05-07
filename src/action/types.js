@@ -1,0 +1,16 @@
+export const LOG_OUT = "LOG_OUT";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const ADD_TO_CART = "ADD_TO_CART";
+export const REMOVE_TO_CART = "REMOVE_TO_CART";
+export const REMOVE_ALL_TO_CART = "REMOVE_ALL_TO_CART";
+export const ACCOUNT_NOTIFY = "ACCOUNT_NOTIFY";
+export const PARENT_PRODUCT = "PARENT_PRODUCT";
+export const REFRESH_PARENT_PRODUCT = "REFRESH_PARENT_PRODUCT";
+export const BEST_PRODUCT = "BEST_PRODUCT";
+export const NEW_PRODUCT = "NEW_PRODUCT";
+export const POPULAR_PRODUCT = "POPULAR_PRODUCT";
+export const ID_SHOP ="ID_SHOP";
+export const SEARCH_HOME="SEARCH_HOME";
+export const SEARCH_ORDER="SEARCH_ORDER";
+export const SEARCH_PRODUCT="SEARCH_PRODUCT";
